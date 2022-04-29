@@ -6,3 +6,7 @@ function bb() {
 function test() {
     console.log("哈哈你真帅")
 }
+
+function stu(){
+    console.log("大学生")
+}
