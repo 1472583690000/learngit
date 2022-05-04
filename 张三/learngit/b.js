@@ -3,3 +3,7 @@ function bb () {
 }
 
 console.log("aaaaa")
+
+console.log() {
+    console.log("张三来了")
+}
