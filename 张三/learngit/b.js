@@ -10,3 +10,7 @@ function test() {
 function stu(){
     console.log("大学生")
 }
+
+function bb(){
+    console.log("哈哈，我是bb")
+}
